@@ -16,6 +16,7 @@ css
 
 body {
     font-family: Arial, sans-serif;
+   background: red !important;
 
     min-height: 100vh;
 
