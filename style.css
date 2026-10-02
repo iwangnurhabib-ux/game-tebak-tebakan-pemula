@@ -628,4 +628,14 @@ body {
     }
 
 }
+body {
+    background: yellow !important;
+}
 
+.game-container {
+    background: blue !important;
+}
+
+.start-page h1 {
+    color: red !important;
+}
